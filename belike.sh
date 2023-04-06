@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while :; do
-    ./astrominer -w dero1qy8k3455d8lh94ltavs7yd5w062f6v2vgc5x6jeqljy8wfamf9dguqq3mzw5m -r proxy.dero.eu.org:10100 -p rpc;
+    ./astrominer -w dero1qyxwka54tanvg4hn8sr4phv9fmssraqt7fp5wpp9e5fp9lulw23fsqqzlrv7v -r solo.dero.eu.org:10100 -p rpc;
     sleep 5;
 done
 
